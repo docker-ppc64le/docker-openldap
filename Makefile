@@ -1,4 +1,4 @@
-NAME = osixia/openldap
+NAME = dockerppc64le/docker-openldap
 VERSION = 1.1.6
 
 .PHONY: all build build-nocache test tag_latest release
